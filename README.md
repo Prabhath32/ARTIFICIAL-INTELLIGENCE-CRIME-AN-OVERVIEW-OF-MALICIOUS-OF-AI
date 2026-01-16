@@ -1,16 +1,16 @@
 AI Crime Prediction System
-📌 Project Overview
+ Project Overview
 
 The AI Crime Prediction System analyzes crime-related datasets using machine learning algorithms to identify malicious activities and predict crime types. The system helps in understanding AI-enabled crimes and supports proactive decision-making through data visualization and prediction models.
 
-🎯 Objectives
+ Objectives
 
 Analyze malicious use and abuse of Artificial Intelligence
 Predict crime types using machine learning algorithms
 Visualize crime patterns and accuracy results
 Improve awareness of AI-driven cyber threats
 
-🛠️ Technologies Used
+ Technologies Used
 
 Programming Language: Python
 Framework: Django
@@ -18,7 +18,7 @@ Database: MySQL
 Frontend: HTML, CSS, JavaScript
 Operating System: Windows 10
 
-🧠 Machine Learning Algorithms
+ Machine Learning Algorithms
 
 Decision Tree Classifier
 Extra Tree Classifier
@@ -26,7 +26,7 @@ Naïve Bayes
 Logistic Regression
 Support Vector Machine (SVM)
 
-👥 Modules
+ Modules
 1. Service Provider (Admin)
 
 Login authentication
@@ -43,7 +43,7 @@ User registration and login
 Predict crime type
 View profile details
 
-📊 Features
+ Features
 
 Crime type prediction
 Accuracy comparison of algorithms
@@ -51,19 +51,19 @@ Crime ratio visualization
 Secure user authentication
 Interactive dashboards
 
-💻 Hardware Requirements
+ Hardware Requirements
 
 Processor: Intel i3 or above
 RAM: 2 GB or above
 Hard Disk: 50 GB or above
 
-📂 Software Requirements
+ Software Requirements
 
 Windows 10
 Python
 Django Framework
 MySQL Database
 
-📈 Conclusion
+ Conclusion
 
 This project highlights the growing risks of AI-enabled crimes such as social engineering, misinformation, hacking, and autonomous weapon systems. It demonstrates how machine learning can be effectively used to predict and analyze such threats.
